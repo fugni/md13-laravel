@@ -1,3 +1,5 @@
+<?php Cache::flush(); ?>
+
 <h1>Things BLog</h1>
 
 <a href="posts/1">post 1</a><br>
