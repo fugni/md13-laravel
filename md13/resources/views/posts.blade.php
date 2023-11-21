@@ -1,5 +1,4 @@
-this is post {{ $title }}
-<br><br>
+<title>Post {{ $title }}</title>
 {!! $postcontent !!}
 <br><br>
 <a href="/"><-- back</a>
